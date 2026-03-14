@@ -1,0 +1,7 @@
+torch
+numpy
+scipy
+fastapi
+uvicorn[standard]
+tqdm
+matplotlib
